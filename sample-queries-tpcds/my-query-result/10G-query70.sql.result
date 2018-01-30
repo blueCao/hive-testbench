@@ -1,0 +1,12 @@
+开始执行查询/home/hadoop/download/hive-testbench/sample-queries-tpcds/my-query-result/10G-query70.sql
+2018年 01月 22日 星期一 23:16:41 CST
+-4.406484485840379E9	NULL	NULL	3	1
+-1.5596631207600114E9	AL	NULL	1	1
+-1.5548074170700119E9	TN	NULL	1	2
+-1.2920139480099893E9	SD	NULL	1	3
+-1.5596631207600114E9	AL	Walker County	0	1
+-1.2920139480099893E9	SD	Ziebach County	0	3
+-1.467712556950015E9	TN	Williamson County	0	2
+-8.709486011999942E7	TN		0	4
+查询new_sql_file成功
+2018年 01月 22日 星期一 23:20:50 CST

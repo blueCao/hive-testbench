@@ -1,0 +1,104 @@
+开始执行查询/home/hadoop/download/hive-testbench/sample-queries-tpcds/my-query-result/10G-query89.sql
+2018年 01月 23日 星期二 01:16:17 CST
+Shoes	womens	amalgedu pack #2	able	Unknown	4	19136.910000000003	38034.65416666666
+Shoes	womens	amalgedu pack #2	eing	Unknown	4	19894.249999999993	38138.98416666666
+Shoes	womens	amalgedu pack #2	able	Unknown	5	20444.309999999983	38034.65416666666
+Men	pants	exportiimporto #2	ese	Unknown	3	17794.19000000002	35326.55083333335
+Shoes	womens	amalgedu pack #2	able	Unknown	2	20925.559999999965	38034.65416666666
+Men	pants	exportiimporto #2	able	Unknown	2	18670.009999999995	35771.0375
+Shoes	womens	amalgedu pack #2	able	Unknown	3	21144.629999999986	38034.65416666666
+Shoes	womens	amalgedu pack #2	bar	Unknown	3	20158.570000000032	37046.03083333331
+Shoes	womens	amalgedu pack #2	eing	Unknown	5	21293.460000000006	38138.98416666666
+Shoes	womens	amalgedu pack #2	ese	Unknown	3	20172.75	36961.59916666666
+Shoes	womens	amalgedu pack #2	eing	Unknown	2	21428.17999999998	38138.98416666666
+Shoes	womens	amalgedu pack #2	able	Unknown	6	21468.66999999998	38034.65416666666
+Men	pants	exportiimporto #2	eing	Unknown	7	19446.609999999997	35901.4783333333
+Shoes	womens	amalgedu pack #2	bar	Unknown	4	20630.760000000002	37046.03083333331
+Men	pants	exportiimporto #2	ese	Unknown	4	19023.94999999999	35326.55083333335
+Men	pants	exportiimporto #2	able	Unknown	4	19515.170000000016	35771.0375
+Men	pants	exportiimporto #2	bar	Unknown	6	19133.359999999993	35389.05833333333
+Shoes	womens	amalgedu pack #2	ese	Unknown	2	20872.200000000008	36961.59916666666
+Men	pants	exportiimporto #2	ese	Unknown	2	19485.030000000013	35326.55083333335
+Shoes	womens	amalgedu pack #2	eing	Unknown	6	22337.33999999999	38138.98416666666
+Shoes	womens	amalgedu pack #2	ese	Unknown	7	21217.13000000003	36961.59916666666
+Men	pants	exportiimporto #2	able	Unknown	6	20117.449999999997	35771.0375
+Men	pants	exportiimporto #2	bar	Unknown	4	19751.18	35389.05833333333
+Shoes	womens	amalgedu pack #2	bar	Unknown	6	21499.86999999999	37046.03083333331
+Men	pants	exportiimporto #2	able	Unknown	7	20246.180000000008	35771.0375
+Men	pants	exportiimporto #2	eing	Unknown	2	20514.37	35901.4783333333
+Shoes	womens	amalgedu pack #2	bar	Unknown	7	21662.619999999984	37046.03083333331
+Shoes	womens	amalgedu pack #2	ese	Unknown	5	21631.880000000012	36961.59916666666
+Shoes	womens	amalgedu pack #2	able	Unknown	7	22707.019999999997	38034.65416666666
+Men	pants	exportiimporto #2	eing	Unknown	6	20575.250000000007	35901.4783333333
+Men	pants	exportiimporto #2	ese	Unknown	6	20164.950000000015	35326.55083333335
+Shoes	womens	amalgedu pack #2	ese	Unknown	4	21830.15000000001	36961.59916666666
+Shoes	womens	amalgedu pack #2	ese	Unknown	6	21915.56	36961.59916666666
+Men	pants	exportiimporto #2	bar	Unknown	2	20378.50999999999	35389.05833333333
+Shoes	womens	amalgedu pack #2	bar	Unknown	2	22037.170000000002	37046.03083333331
+Men	pants	exportiimporto #2	bar	Unknown	7	20486.99	35389.05833333333
+Men	pants	exportiimporto #2	bar	Unknown	3	20501.110000000004	35389.05833333333
+Men	pants	exportiimporto #2	eing	Unknown	4	21102.720000000016	35901.4783333333
+Men	pants	exportiimporto #2	eing	Unknown	5	21174.790000000008	35901.4783333333
+Men	pants	exportiimporto #2	able	Unknown	3	21297.450000000004	35771.0375
+Men	pants	exportiimporto #2	bar	Unknown	5	20918.4	35389.05833333333
+Men	pants	exportiimporto #2	ese	Unknown	7	21047.52999999998	35326.55083333335
+Shoes	womens	amalgedu pack #2	bar	Unknown	5	22795.599999999995	37046.03083333331
+Shoes	womens	amalgedu pack #2	cally	Unknown	5	17138.900000000027	31212.52916666666
+Shoes	womens	amalgedu pack #2	cally	Unknown	4	17231.930000000004	31212.52916666666
+Shoes	womens	amalgedu pack #2	cally	Unknown	2	17250.880000000016	31212.52916666666
+Men	pants	exportiimporto #2	able	Unknown	5	21876.899999999983	35771.0375
+Men	pants	exportiimporto #2	bar	Unknown	1	21572.64999999998	35389.05833333333
+Men	pants	exportiimporto #2	ese	Unknown	5	21530.53999999999	35326.55083333335
+Shoes	womens	amalgedu pack #2	eing	Unknown	7	24585.61999999998	38138.98416666666
+Shoes	womens	amalgedu pack #2	cally	Unknown	7	17663.449999999986	31212.52916666666
+Men	pants	exportiimporto #2	cally	Unknown	6	16372.499999999998	29917.87666666666
+Men	pants	exportiimporto #2	cally	Unknown	2	16413.429999999993	29917.87666666666
+Shoes	womens	amalgedu pack #2	able	Unknown	1	24542.889999999996	38034.65416666666
+Shoes	womens	amalgedu pack #2	cally	Unknown	6	17752.19999999999	31212.52916666666
+Shoes	womens	amalgedu pack #2	eing	Unknown	3	24693.56000000003	38138.98416666666
+Men	pants	exportiimporto #2	eing	Unknown	3	22619.80999999999	35901.4783333333
+Men	pants	exportiimporto #2	cally	Unknown	7	16861.699999999997	29917.87666666666
+Shoes	womens	amalgedu pack #2	eing	Unknown	1	25261.20999999999	38138.98416666666
+Men	pants	exportiimporto #2	cally	Unknown	5	17136.09	29917.87666666666
+Shoes	womens	amalgedu pack #2	bar	Unknown	1	24390.530000000035	37046.03083333331
+Men	pants	exportiimporto #2	cally	Unknown	3	17728.119999999995	29917.87666666666
+Men	pants	exportiimporto #2	cally	Unknown	4	18032.83	29917.87666666666
+Shoes	womens	amalgedu pack #2	ese	Unknown	1	25470.349999999988	36961.59916666666
+Men	pants	exportiimporto #2	eing	Unknown	1	24565.020000000015	35901.4783333333
+Men	pants	exportiimporto #2	ese	Unknown	1	24063.97000000002	35326.55083333335
+Shoes	womens	amalgedu pack #1	eing	Unknown	6	9561.739999999993	20755.5975
+Men	pants	exportiimporto #2	able	Unknown	1	24596.929999999993	35771.0375
+Shoes	womens	amalgedu pack #1	able	Unknown	2	9630.100000000002	20607.770833333336
+Shoes	womens	amalgedu pack #2	ation	Unknown	3	10492.280000000004	21250.3575
+Men	pants	exportiimporto #2	ought	Unknown	2	10225.680000000002	20545.49
+Shoes	womens	amalgedu pack #2	ought	Unknown	2	10648.82	20959.565
+Shoes	womens	amalgedu pack #2	cally	Unknown	3	21009.570000000003	31212.52916666666
+Shoes	womens	amalgedu pack #2	ation	Unknown	2	11181.069999999994	21250.3575
+Men	pants	exportiimporto #2	ought	Unknown	4	10554.450000000003	20545.49
+Shoes	womens	amalgedu pack #2	cally	Unknown	1	21314.930000000015	31212.52916666666
+Shoes	womens	amalgedu pack #1	ese	Unknown	2	10532.72	20390.178333333333
+Shoes	womens	amalgedu pack #1	ese	Unknown	3	10653.560000000007	20390.178333333333
+Shoes	womens	amalgedu pack #1	eing	Unknown	4	11087.83	20755.5975
+Men	pants	exportiimporto #2	cally	Unknown	1	20250.229999999996	29917.87666666666
+Men	pants	exportiimporto #2	ation	Unknown	4	10549.160000000007	20200.49
+Men	pants	exportiimporto #1	bar	Unknown	2	9014.64	18619.39083333333
+Shoes	womens	amalgedu pack #1	bar	Unknown	6	11288.289999999999	20883.234999999997
+Shoes	womens	amalgedu pack #2	pri	Unknown	2	6556.609999999998	16100.000000000002
+Shoes	womens	amalgedu pack #2	ought	Unknown	4	11428.18	20959.565
+Shoes	womens	amalgedu pack #1	ese	Unknown	5	10954.93000000001	20390.178333333333
+Shoes	womens	amalgedu pack #1	bar	Unknown	4	11478.699999999995	20883.234999999997
+Shoes	womens	amalgedu pack #1	eing	Unknown	7	11405.490000000003	20755.5975
+Men	pants	exportiimporto #2	ation	Unknown	6	10886.130000000003	20200.49
+Shoes	womens	amalgedu pack #2	ought	Unknown	6	11718.390000000001	20959.565
+Shoes	womens	amalgedu pack #1	ese	Unknown	7	11171.789999999997	20390.178333333333
+Shoes	womens	amalgedu pack #1	able	Unknown	4	11422.869999999995	20607.770833333336
+Men	pants	exportiimporto #2	ation	Unknown	5	11023.130000000001	20200.49
+Shoes	womens	amalgedu pack #1	ese	Unknown	4	11286.969999999998	20390.178333333333
+Men	pants	exportiimporto #1	able	Unknown	4	9945.96000000001	19046.38
+Shoes	womens	amalgedu pack #1	able	Unknown	5	11535.030000000004	20607.770833333336
+Shoes	womens	amalgedu pack #1	eing	Unknown	5	11685.670000000002	20755.5975
+Shoes	womens	amalgedu pack #2	ought	Unknown	7	11913.02	20959.565
+Shoes	womens	amalgedu pack #1	able	Unknown	7	11714.74	20607.770833333336
+Shoes	womens	amalgedu pack #1	bar	Unknown	3	12010.550000000001	20883.234999999997
+查询new_sql_file成功
+2018年 01月 23日 星期二 01:18:12 CST

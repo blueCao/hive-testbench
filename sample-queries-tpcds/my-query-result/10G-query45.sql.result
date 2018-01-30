@@ -1,0 +1,38 @@
+开始执行查询/home/hadoop/download/hive-testbench/sample-queries-tpcds/my-query-result/10G-query45.sql
+2018年 01月 22日 星期一 20:51:41 CST
+02552	Somerset County	80.9
+08659	New Haven County	51.93
+09428	Addison County	42.85
+20296	Beaufort County	53.22
+23511	Madison County	51.67
+25018	Orange County	1.79
+29310	Giles County	8.64
+29840	Hancock County	93.39
+31387	Jackson County	111.77
+37838	Dixie County	131.55
+38828	Wakulla County	40.17
+39310	Baker County	17.87
+41289	Isabella County	14.48
+41711	Williams County	58.25
+42477	Delta County	74.19
+43451	Warren County	102.89
+45709		7.46
+46098	Allen County	26.06
+54289	Shawano County	61.21
+54975		189.89
+56614	Chickasaw County	87.57
+58370	Faulk County	17.36
+59584	Codington County	31.94
+60191	Franklin County	10.01
+60216	Richardson County	5.99
+60540	Marion County	145.11
+61749	Saline County	156.41
+65281	Elk County	34.84
+68014	Stone County	56.2
+75281	Crittenden County	43.03
+76614	Rapides Parish	56.34
+78014	Boone County	0.88
+81338	Bannock County	1.49
+90399	Denali Borough	3.35
+查询new_sql_file成功
+2018年 01月 22日 星期一 20:56:05 CST

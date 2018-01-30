@@ -54,8 +54,20 @@ public class GenTable extends Configured implements Tool {
           table = line.getOptionValue("table");
         }
         Path out = new Path(line.getOptionValue("dir"));
-
-        int parallel = scale;
+        /**
+         * TODO:这里有一个bug，在java调用C程序 dsdgen 并行化参数大于1000时，会报错，需要降低parallel参数，具体参数如下
+         *          ./dsdgen -dir /data/hadoop/hadoop/nodemanager/intermediate_data/usercache/hadoop/appcache/application_1517289724055_0001/container_1517289724055_0001_01_000032/. -force Y -scale 1000 -parallel 500 -child 130
+         *
+         * 参数意思如下：
+         *  s   scale   表示产生多大的数据集（G）
+         *  dir dirctory    产生的数据集放置在哪个目录中
+         *  force   force   强制重写文件
+         *  parallel    parallel    并行化数量
+         *  child   child   产生第child个并行执行程序的数据集（这个值的最大值与parallel相等）
+         *
+         *  parallel不能超过阈值(约为875），否则java调用会报139错误码，改动如下
+         */
+        int parallel = scale > 875 ? 875 : scale;
 
         if(line.hasOption("parallel")) {
           parallel = Integer.parseInt(line.getOptionValue("parallel"));
@@ -136,7 +148,7 @@ public class GenTable extends Configured implements Tool {
         FileSystem fs = FileSystem.get(getConf());
         FSDataOutputStream out = fs.create(in);
         for(int i = 1; i <= parallel; i++) {
-          if(table.equals("all")) {
+            if(table.equals("all")) {
             out.writeBytes(String.format("./dsdgen -dir $DIR -force Y -scale %d -parallel %d -child %d\n", scale, parallel, i));
           } else {
             out.writeBytes(String.format("./dsdgen -dir $DIR -table %s -force Y -scale %d -parallel %d -child %d\n", table, scale, parallel, i));
